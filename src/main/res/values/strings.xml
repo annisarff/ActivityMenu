@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="judul">Activity Satu</string>
+    <string name="login">Login</string>
+    <string name="user">Email</string>
+    <string name="pass">Password</string>
+    <string name="tuser">Ini hasil Email</string>
+    <string name="tpass">Ini hasil password</string>
+    <string name="label">Login berhasil</string>
+    <string name="tData">Data</string>
+    <string name="aDaftar">Peendaftaran</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="enama">Masukkan nama</string>
+    <string name="eemail">Masukkan email</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="erepass">Masukkan Pasword Kembali</string>
+    <string name="elamat">Masukkan alamat</string>
+
+
+</resources>
